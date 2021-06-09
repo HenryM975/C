@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1609860764 source:c:\users\user5\onedrive\Рабочий стол\c\mainprojarcanoid2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+

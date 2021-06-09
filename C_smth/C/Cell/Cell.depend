@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610812665 source:c:\users\user5\onedrive\Рабочий стол\c\cell\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
